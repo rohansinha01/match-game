@@ -11,6 +11,7 @@ const secondRow: string[] = ["red", "blue", 'green']
   <option value="option2">Option 2</option>
   <option value="option3">Option 3</option>
 </select>
+<button> How many are correct? </button>
     </div>
   )
 }
