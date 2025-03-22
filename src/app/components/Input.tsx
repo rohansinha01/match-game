@@ -2,7 +2,7 @@ import React from 'react'
 
 const Input = () => {
 const firstRow: string[] = ["red", "blue", 'green']
-const secondRow: string[] = ["red", "blue", 'green']
+
   return (
     <div className='text-amber-50'>
         <label htmlFor="my-select">Choose an option:</label>
